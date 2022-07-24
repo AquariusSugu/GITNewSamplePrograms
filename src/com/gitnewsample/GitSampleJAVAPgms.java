@@ -30,6 +30,7 @@ public class GitSampleJAVAPgms {
                 map.put(c,1);
             }
             System.out.println(map);
+            System.out.println(map);
         }
         
         
